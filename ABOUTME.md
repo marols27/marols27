@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Martin
+- 👀 I’m interested in ... Coding and Automation
+- 🌱 I’m currently learning ... Image recognition with tensorflow
+- 💞️ I’m looking to collaborate on ... Projects involving python, machine learning and AI
+- 📫 How to reach me ... Email: martinolsbo1@gmail.com Phone: 95199055
